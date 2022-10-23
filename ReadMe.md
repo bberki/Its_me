@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently studying at Ankara University<br>🌱 I’m currently learning C<br>⚡ Fun fact: It WAS so much fun to code 
+🔭 I’m currently studying at Ankara University<br>
+🌱 I’m currently learning C<br>
+⚡ Fun fact: It WAS so much fun to code 
 
 
 ## 🌐 Socials:
