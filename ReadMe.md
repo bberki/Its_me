@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying at Ankara University<br>
 🌱 I’m currently learning C<br>
-⚡ Fun fact: It WAS so much fun to code 
+⚡ Fun fact: Software Engineers deals more with project management than I thought.
 
 
 ## 🌐 Socials:
